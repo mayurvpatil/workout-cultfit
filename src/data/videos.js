@@ -42,8 +42,60 @@ export const videos = {
       { id: 'c_s_2', title: '30-Min Lower Body – Legs & Thighs', duration: '30:00', url: 'https://www.youtube.com/watch?v=hUwWYIz9f0Y', published: 'Oct 2020' },
       { id: 'c_s_3', title: 'Legs & Core Workout – Cult Live', duration: '27:05', url: 'https://www.youtube.com/watch?v=8kaEM_2oS6Q', published: 'Apr 2021' }
     ]
+  },
+  yoga: {
+    long: [
+      { id: 'y_l_1', title: 'Full Body Hatha Yoga - 50 Min (Latest)', duration: '50:00', url: 'https://www.youtube.com/watch?v=ryy0ND9D_fw', published: 'Feb 2026' },
+      { id: 'y_l_2', title: 'Daily Vinyasa Yoga - 50-Min Beginner', duration: '50:00', url: 'https://www.youtube.com/watch?v=Tjvh16xOCxA', published: 'Mar 2025' },
+      { id: 'y_l_3', title: '50-Min Vinyasa Yoga for Beginners', duration: '50:00', url: 'https://www.youtube.com/watch?v=uyrLjeVZZH0', published: 'Apr 2025' },
+      { id: 'y_l_4', title: 'Hatha Yoga for Beginners - 50 Min Full Body', duration: '50:00', url: 'https://www.youtube.com/watch?v=v9ogjHBlZZU', published: 'Nov 2024' },
+      { id: 'y_l_5', title: '50-Min Intermediate Hatha Yoga', duration: '50:00', url: 'https://www.youtube.com/watch?v=TLU59T5wZ1U', published: 'Jan 2025' },
+      { id: 'y_l_6', title: 'Yoga for Beginners - Hatha Yoga Flexibility', duration: '53:00', url: 'https://www.youtube.com/watch?v=TWkSKz7mdhY', published: 'Apr 2022' }
+    ],
+    short: [
+      { id: 'y_s_1', title: 'Full Body Hatha Yoga - 30 Min (Latest)', duration: '30:00', url: 'https://www.youtube.com/watch?v=25qS6jUjT0Q', published: 'Jan 2026' },
+      { id: 'y_s_2', title: 'Hatha Yoga Routine at Home - 30 Min', duration: '30:00', url: 'https://www.youtube.com/watch?v=qk-VDC0IHds', published: 'May 2025' },
+      { id: 'y_s_3', title: 'Hatha Yoga at Home - 30-Min Flexibility & Calm', duration: '30:00', url: 'https://www.youtube.com/watch?v=tzFLef72BYE', published: 'May 2024' },
+      { id: 'y_s_4', title: 'Power Yoga at Home - 30-Min Beginner', duration: '30:00', url: 'https://www.youtube.com/watch?v=zveUV2NSaEc', published: 'Jun 2024' }
+    ]
+  },
+  abs: {
+    long: [],
+    short: [
+      { id: 'a_s_1', title: 'Abs & Lower Body Cardio Workout', duration: '35:00', url: 'https://www.youtube.com/watch?v=vgchLmHHyEk', published: 'Mar 2022' },
+      { id: 'a_s_2', title: 'Get Abs in 2 Weeks Challenge - 6 Pack Workout', duration: '21:00', url: 'https://www.youtube.com/watch?v=8D_ItZBvbmk', published: 'Nov 2020' },
+      { id: 'a_s_3', title: '30-Min Core Strengthening HIIT - Abs & Midsection', duration: '30:00', url: 'https://www.youtube.com/watch?v=rPKVF2_hw0M', published: 'Jan 2021' }
+    ]
+  },
+  hiit: {
+    long: [
+      { id: 'h_l_1', title: '50-Min Full Body Strength & Conditioning', duration: '50:00', url: 'https://www.youtube.com/watch?v=EOs-_0PpmMM', published: 'May 2025' },
+      { id: 'h_l_2', title: '50-Min Full Body S&C - Fat Burn', duration: '50:00', url: 'https://www.youtube.com/watch?v=ugL_R2jpCBY', published: 'May 2025' },
+      { id: 'h_l_3', title: '50 Mins Full Body Workout - Strength & Conditioning', duration: '50:00', url: 'https://www.youtube.com/watch?v=ciLEtlwnucA', published: 'Jun 2024' }
+    ],
+    short: [
+      { id: 'h_s_1', title: '30 Min HIIT Cardio - High Intensity Fat Burn (2026)', duration: '30:00', url: 'https://www.youtube.com/watch?v=VDZ9srQVBxA', published: 'Jan 2026' },
+      { id: 'h_s_2', title: '30 Min HIIT Cardio - Fat Burn & Full Body (2025)', duration: '30:00', url: 'https://www.youtube.com/watch?v=unQJj_uSUjs', published: 'Nov 2025' },
+      { id: 'h_s_3', title: '30-Min HIIT Cardio - High-Intensity Fat Burn', duration: '30:00', url: 'https://www.youtube.com/watch?v=U5MIE0wOTCM', published: 'Aug 2025' },
+      { id: 'h_s_4', title: '30-Min HIIT Workout for Weight Loss', duration: '30:00', url: 'https://www.youtube.com/watch?v=M5EfNvSsgUo', published: 'Aug 2025' },
+      { id: 'h_s_5', title: 'HEAT Cardio - 30 Mins Strength & Fat Burn', duration: '30:00', url: 'https://www.youtube.com/watch?v=uMIWxuvwkGs', published: 'Apr 2025' },
+      { id: 'h_s_6', title: '30-Min HIIT Cardio - Fat Burn Full Body', duration: '30:00', url: 'https://www.youtube.com/watch?v=uU98CEQyAck', published: 'Aug 2024' },
+      { id: 'h_s_7', title: 'Fat Burning Cardio - 30-Min HIIT Weight Loss', duration: '30:00', url: 'https://www.youtube.com/watch?v=xO0-f0llZcA', published: 'Jul 2024' },
+      { id: 'h_s_8', title: 'Fat Burning HIIT - No Equipment Full Body', duration: '30:00', url: 'https://www.youtube.com/watch?v=bZKSzVvPwN4', published: 'Apr 2024' },
+      { id: 'h_s_9', title: '30 Min HIIT Cardio - Full Body Fat Burn', duration: '30:00', url: 'https://www.youtube.com/watch?v=PrGRw3RF9lk', published: 'Mar 2024' },
+      { id: 'h_s_10', title: '30 Min HIIT - Fat Burn Full Body Routine', duration: '30:00', url: 'https://www.youtube.com/watch?v=wLidsqcFMLA', published: 'May 2024' }
+    ]
   }
 };
+
+export const workoutGroups = [
+  { key: 'push', label: 'Push' },
+  { key: 'pull', label: 'Pull' },
+  { key: 'core', label: 'Core/Legs' },
+  { key: 'yoga', label: 'Yoga' },
+  { key: 'abs', label: 'Abs' },
+  { key: 'hiit', label: 'HIIT/Cardio' }
+];
 
 export const weeklyPlan = [
   { day: 'Monday', type: 'Push' },

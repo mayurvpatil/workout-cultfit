@@ -102,3 +102,64 @@ Based on the durations you've provided, here's the fully corrected list with all
 
 [^2]: https://www.youtube.com/watch?v=oJFOLXRfsuM
 
+***
+
+## EXTENDED GROUPS (MERGED FROM newlist.md)
+
+## YOGA
+
+### 45-60 Minutes
+
+| # | Video | Duration | Link | Published |
+| :-- | :-- | :-- | :-- | :-- |
+| 1 | Full Body Hatha Yoga - 50 Min (Latest) | 50:00 | [Watch](https://www.youtube.com/watch?v=ryy0ND9D_fw) | Feb 2026 |
+| 2 | Daily Vinyasa Yoga - 50-Min Beginner | 50:00 | [Watch](https://www.youtube.com/watch?v=Tjvh16xOCxA) | Mar 2025 |
+| 3 | 50-Min Vinyasa Yoga for Beginners | 50:00 | [Watch](https://www.youtube.com/watch?v=uyrLjeVZZH0) | Apr 2025 |
+| 4 | Hatha Yoga for Beginners - 50 Min Full Body | 50:00 | [Watch](https://www.youtube.com/watch?v=v9ogjHBlZZU) | Nov 2024 |
+| 5 | 50-Min Intermediate Hatha Yoga | 50:00 | [Watch](https://www.youtube.com/watch?v=TLU59T5wZ1U) | Jan 2025 |
+| 6 | Yoga for Beginners - Hatha Yoga Flexibility | 53:00 | [Watch](https://www.youtube.com/watch?v=TWkSKz7mdhY) | Apr 2022 |
+
+### Under 40 Minutes
+
+| # | Video | Duration | Link | Published |
+| :-- | :-- | :-- | :-- | :-- |
+| 1 | Full Body Hatha Yoga - 30 Min (Latest) | 30:00 | [Watch](https://www.youtube.com/watch?v=25qS6jUjT0Q) | Jan 2026 |
+| 2 | Hatha Yoga Routine at Home - 30 Min | 30:00 | [Watch](https://www.youtube.com/watch?v=qk-VDC0IHds) | May 2025 |
+| 3 | Hatha Yoga at Home - 30-Min Flexibility & Calm | 30:00 | [Watch](https://www.youtube.com/watch?v=tzFLef72BYE) | May 2024 |
+| 4 | Power Yoga at Home - 30-Min Beginner | 30:00 | [Watch](https://www.youtube.com/watch?v=zveUV2NSaEc) | Jun 2024 |
+
+## ABS
+
+### Under 40 Minutes
+
+| # | Video | Duration | Link | Published |
+| :-- | :-- | :-- | :-- | :-- |
+| 1 | Abs & Lower Body Cardio Workout | 35:00 | [Watch](https://www.youtube.com/watch?v=vgchLmHHyEk) | Mar 2022 |
+| 2 | Get Abs in 2 Weeks Challenge - 6 Pack Workout | 21:00 | [Watch](https://www.youtube.com/watch?v=8D_ItZBvbmk) | Nov 2020 |
+| 3 | 30-Min Core Strengthening HIIT - Abs & Midsection | 30:00 | [Watch](https://www.youtube.com/watch?v=rPKVF2_hw0M) | Jan 2021 |
+
+## HIIT / CARDIO
+
+### 45-60 Minutes
+
+| # | Video | Duration | Link | Published |
+| :-- | :-- | :-- | :-- | :-- |
+| 1 | 50-Min Full Body Strength & Conditioning | 50:00 | [Watch](https://www.youtube.com/watch?v=EOs-_0PpmMM) | May 2025 |
+| 2 | 50-Min Full Body S&C - Fat Burn | 50:00 | [Watch](https://www.youtube.com/watch?v=ugL_R2jpCBY) | May 2025 |
+| 3 | 50 Mins Full Body Workout - Strength & Conditioning | 50:00 | [Watch](https://www.youtube.com/watch?v=ciLEtlwnucA) | Jun 2024 |
+
+### Under 40 Minutes
+
+| # | Video | Duration | Link | Published |
+| :-- | :-- | :-- | :-- | :-- |
+| 1 | 30 Min HIIT Cardio - High Intensity Fat Burn (2026) | 30:00 | [Watch](https://www.youtube.com/watch?v=VDZ9srQVBxA) | Jan 2026 |
+| 2 | 30 Min HIIT Cardio - Fat Burn & Full Body (2025) | 30:00 | [Watch](https://www.youtube.com/watch?v=unQJj_uSUjs) | Nov 2025 |
+| 3 | 30-Min HIIT Cardio - High-Intensity Fat Burn | 30:00 | [Watch](https://www.youtube.com/watch?v=U5MIE0wOTCM) | Aug 2025 |
+| 4 | 30-Min HIIT Workout for Weight Loss | 30:00 | [Watch](https://www.youtube.com/watch?v=M5EfNvSsgUo) | Aug 2025 |
+| 5 | HEAT Cardio - 30 Mins Strength & Fat Burn | 30:00 | [Watch](https://www.youtube.com/watch?v=uMIWxuvwkGs) | Apr 2025 |
+| 6 | 30-Min HIIT Cardio - Fat Burn Full Body | 30:00 | [Watch](https://www.youtube.com/watch?v=uU98CEQyAck) | Aug 2024 |
+| 7 | Fat Burning Cardio - 30-Min HIIT Weight Loss | 30:00 | [Watch](https://www.youtube.com/watch?v=xO0-f0llZcA) | Jul 2024 |
+| 8 | Fat Burning HIIT - No Equipment Full Body | 30:00 | [Watch](https://www.youtube.com/watch?v=bZKSzVvPwN4) | Apr 2024 |
+| 9 | 30 Min HIIT Cardio - Full Body Fat Burn | 30:00 | [Watch](https://www.youtube.com/watch?v=PrGRw3RF9lk) | Mar 2024 |
+| 10 | 30 Min HIIT - Fat Burn Full Body Routine | 30:00 | [Watch](https://www.youtube.com/watch?v=wLidsqcFMLA) | May 2024 |
+

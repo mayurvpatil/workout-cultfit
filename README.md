@@ -1,6 +1,6 @@
-# Cult Fit Workout Planner
+# CultFit Workout Planner
 
-A modern, responsive, static personal workout planner using Cult Fit YouTube workout videos.
+A modern, responsive, static personal workout planner using CultFit YouTube workout videos.
 
 ## Features
 - **Weekly Split View**: Displays a Monday-Sunday breakdown.

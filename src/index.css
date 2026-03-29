@@ -1,1 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;800&family=Bebas+Neue&display=swap");
+
 @import "tailwindcss";
+
+:root {
+  --bg-deep: #0a0d12;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at 15% 10%, rgba(163, 230, 53, 0.08), transparent 30%),
+    radial-gradient(circle at 85% 30%, rgba(34, 211, 238, 0.08), transparent 35%),
+    var(--bg-deep);
+  font-family: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Bebas Neue", "Space Grotesk", sans-serif;
+  letter-spacing: 0.02em;
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 360ms ease-out;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
